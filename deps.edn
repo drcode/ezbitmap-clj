@@ -1,0 +1,8 @@
+{:deps {io.github.drcode/fbc-utils    {:git/tag "v0.0.3"
+                                       :git/sha "df91671"}
+        io.github.drcode/snek         {:git/tag "v0.0.4"
+                                       :git/sha "465682c"}
+        io.github.drcode/good-guesser {:git/tag "1.0.0"
+                                       :git/sha "3a48bb7"}
+        net.mikera/imagez             {:mvn/version "0.12.0"}
+        org.clojure/core.async        {:mvn/version "1.5.648"}}}
