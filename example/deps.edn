@@ -1,0 +1,2 @@
+{:deps {io.github.drcode/ezbitmap-clj {:git/tag "1.0.0"
+                                       :git/sha "9465053"}}}
