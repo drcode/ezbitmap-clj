@@ -4,6 +4,8 @@ See [ezbitmap.com](https://ezbitmap.com) to learn more about this library.
 
 This library will generate a full-color bitmap from ASCII art in Clojure. Note that it is not identical to the javascript version, and is somewhat less advanced: It has no upscaling support, and will generate slightly different colors than the javascript version.
 
+Follow me on [twitter](https://twitter.com/lisperati) for any future news on this library.
+
 To use it, include `ezbitmap-clj` in your `deps.edn` file:
 
 ```clojure
@@ -36,3 +38,8 @@ Now you can create and view a bitmap as follows:
 ```
 
 See the example directory for a functioning example.
+
+# License
+
+This library is open source under the Eclipse Public License 1.0
+
